@@ -1,0 +1,62 @@
+{
+  "RedEyes_geburah": {
+    "NAME": "Красные Глаза!",
+    "DESCRIPTION":
+    "Наносит !D! урона."
+  },
+  "Penitence_geburah": {
+    "NAME": "Покаяние!",
+    "DESCRIPTION":
+    "Наносит !D! урона. Накладывает !M! Слабости."
+  },
+  "GoldRush_geburah": {
+    "NAME": "Золотая Лихорадка!!!",
+    "DESCRIPTION":
+    "Наносит !D! урона ВСЕМ врагам."
+  },
+  "Mimicry_geburah": {
+    "NAME": "Мимикрия!",
+    "DESCRIPTION":
+    "Наносит !D! урона."
+  },
+  "DaCapo_geburah": {
+    "NAME": "Da Capo!",
+    "DESCRIPTION":
+    "Наносит !D! урона. Накладывает !M! Слабости."
+  },
+  "Heaven_geburah": {
+    "NAME": "Небеса!!!",
+    "DESCRIPTION":
+    "Наносит !D! урона ВСЕМ врагам. Накладывает !M! Уязвимости."
+  },
+  "BlackSmile_geburah": {
+    "NAME": "Чёрная Улыбка!",
+    "DESCRIPTION":
+    "Наносит !D! урона. Накладывает !M! Уязвимости."
+  },
+  "Justitia_geburah": {
+    "NAME": "Justitia!",
+    "DESCRIPTION":
+    "Цель теряет HP равное !M!% от максимального HP."
+  },
+  "Execute_geburah": {
+    "NAME": "Казнь!",
+    "DESCRIPTION":
+    "Неконролируемая: Наносит !D! урона и накладывает !M! Слабости и Уязвимости случайному врагу."
+  },
+  "TheMovementOfCalm_geburah": {
+    "NAME": "Движение Спокойствия",
+    "DESCRIPTION":
+    "Наносит !D! урона и накладывает !M! Слабости и Уязвимости ВСЕМ врагам."
+  },
+  "BloodyFogOnly_geburah": {
+    "NAME": "Только Кровавый Туман...",
+    "DESCRIPTION":
+    "Наносит !D! урона всем врагам 2 раза и накладывает !M! Слабости и Уязвимости им."
+  },
+  "LimitBreak_geburah": {
+    "NAME": "Ломаем Пределы!!!",
+    "DESCRIPTION":
+    "Красный Туман возращяется из боли..."
+  }
+}

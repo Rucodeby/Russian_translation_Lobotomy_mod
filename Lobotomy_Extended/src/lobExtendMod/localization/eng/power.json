@@ -1,0 +1,21 @@
+{
+  "KnightBlessPower": {
+    "NAME": "Благословление Рыцаря",
+    "DESCRIPTIONS": [
+      "Вы получаете на #b50% меньше урона. После потери #r",
+      " HP, потеряйте благословление."
+    ]
+  },
+  "BigBirdEnchantPower": {
+    "NAME": "Зачарование",
+    "DESCRIPTIONS": [
+      "Зачарован светом во тьме..."
+    ]
+  },
+  "DeepSleepMonster": {
+    "NAME": "Спит...",
+    "DESCRIPTIONS": [
+      "Спит..."
+    ]
+  }
+}

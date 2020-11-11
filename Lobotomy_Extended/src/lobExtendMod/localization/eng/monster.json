@@ -1,0 +1,156 @@
+{
+  "QueenOfHatred_f": {
+    "MOVES": [
+    ],
+    "NAME": "Волшебная Девочка",
+    "DIALOG": [
+    ]
+  },
+  "QueenOfHatred_m": {
+    "MOVES": [
+    ],
+    "NAME": "Королева Ненависти",
+    "DIALOG": [
+    ]
+  },
+  "DeadButterflies_m": {
+    "MOVES": [
+    ],
+    "NAME": "Похороны Мёртвых Бабочек",
+    "DIALOG": [
+    ]
+  },
+  "Mercenary_m": {
+    "MOVES": [
+    ],
+    "NAME": "Наёмница в Красной Шапочке",
+    "DIALOG": [
+    ]
+  },
+  "MeltingLoveSmallSlime": {
+    "MOVES": [
+    ],
+    "NAME": "Слизь",
+    "DIALOG": [
+    ]
+  },
+  "MeltingLove_m": {
+    "MOVES": [
+    ],
+    "NAME": "Тающая Любовь",
+    "DIALOG": [
+    ]
+  },
+  "CENSORED_m": {
+    "MOVES": [
+    ],
+    "NAME": "ЗАЦЕНЗУРЕНО",
+    "DIALOG": [
+    ]
+  },
+  "CENSOREDChild": {
+    "MOVES": [
+    ],
+    "NAME": "ЗАЦЕНЗУРЕНО",
+    "DIALOG": [
+    ]
+  },
+  "BodiesMountain_m": {
+    "MOVES": [
+    ],
+    "NAME": "Гора Улыбающихся Тел",
+    "DIALOG": [
+    ]
+  },
+  "DespairKnight_m": {
+    "MOVES": [
+    ],
+    "NAME": "Рыцарь Отчаяния",
+    "DIALOG": [
+    ]
+  },
+  "LongBird_m": {
+    "MOVES": [
+    ],
+    "NAME": "Птица Правосудия",
+    "DIALOG": [
+    ]
+  },
+  "BigBird_m": {
+    "MOVES": [
+    ],
+    "NAME": "Большая Птица",
+    "DIALOG": [
+    ]
+  },
+  "BlueStar_m": {
+    "MOVES": [
+    ],
+    "NAME": "Голубая Звезда",
+    "DIALOG": [
+    ]
+  },
+  "Woodsman_m": {
+    "MOVES": [
+    ],
+    "NAME": "Добрый Дровосек",
+    "DIALOG": [
+    ]
+  },
+  "Heaven_m": {
+    "MOVES": [
+    ],
+    "NAME": "Закрытый Рай",
+    "DIALOG": [
+    ]
+  },
+  "Schadenfreude_m": {
+    "MOVES": [
+    ],
+    "NAME": "Злорадство",
+    "DIALOG": [
+    ]
+  },
+  "LaLuna_f": {
+    "MOVES": [
+    ],
+    "NAME": "Луна",
+    "DIALOG": [
+    ]
+  },
+  "FieryBird_m": {
+    "MOVES": [
+    ],
+    "NAME": "Жар-Птица",
+    "DIALOG": [
+    ]
+  },
+  "HeroicMonk_m": {
+    "MOVES": [
+    ],
+    "NAME": "Героический Монах",
+    "DIALOG": [
+    ]
+  },
+  "VoidDream_m": {
+    "MOVES": [
+    ],
+    "NAME": "Пустой Сон",
+    "DIALOG": [
+    ]
+  },
+  "WitchMonster": {
+    "MOVES": [
+    ],
+    "NAME": "Маленький Друг Ведьмы",
+    "DIALOG": [
+    ]
+  },
+  "WitchMonster_f": {
+    "MOVES": [
+    ],
+    "NAME": "Маленький Друг Ведьмы",
+    "DIALOG": [
+    ]
+  }
+}
